@@ -5,3 +5,5 @@ give the cnv and you can get the track in ucsc show
 
 效果如下图所示
 
+![登陆界面](https://github.com/kkshaxqd/cnv_search/blob/master/87CI585L17.png)
+![CNV查询界面](https://github.com/kkshaxqd/cnv_search/blob/master/AQSX.png)
